@@ -5,6 +5,7 @@ In addition to that we are adding a simple bar chart, just to showcase it.
 Prerequisites:
 - Install openpyxl https://pypi.org/project/openpyxl/ using one of these two commands:
 > pip install openpyxl
+or
 > pip3 install openpyxl
 
 Files explanation:

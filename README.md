@@ -3,7 +3,7 @@ Our goal is to apply 10% on all prices in a spreadsheet using Python.
 In addition to that we are adding a simple bar chart, just to showcase it.
 
 Prerequisites:
-- Install openpyxl https://pypi.org/project/openpyxl/ using one of these two commands:
+- Install openpyxl https://pypi.org/project/openpyxl/
 
 > pip3 install openpyxl
 
